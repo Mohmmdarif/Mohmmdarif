@@ -30,7 +30,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Mohmmdarif&show_icons=true&theme=tokyonight" />
 </picture>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmmdarif&layout=compact&theme=holi" />
 <!--
 **Mohmmdarif/Mohmmdarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
